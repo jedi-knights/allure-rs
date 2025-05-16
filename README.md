@@ -126,7 +126,8 @@ cargo build
 
 ## 📅 Maintainers
 
-* [Your Name](https://github.com/your-handle) — creator & maintainer
+* [Omar Crosby](https://github.com/ocrosby) — creator & maintainer
+* [Ademola Adelekan](https://github.com/demola09) - maintainer
 
 ---
 
